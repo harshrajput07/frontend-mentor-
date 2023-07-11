@@ -1,11 +1,11 @@
 
 body{
     text-align: center;
-    margin: 10% 15%;
+    margin: 10% 10%;
     
 }.card {
     display: inline-block;
-    width: 300px;
+    width: 20rem;
     background-color: #ffffff;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
